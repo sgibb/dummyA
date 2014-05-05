@@ -4,6 +4,6 @@ Title: The A dummy package
 Version: 0.1.0
 Authors@R: person("Sebastian", "Gibb", role = c("aut", "cre"),
                    email = "mail@sebastiangibb.de")
-Depends: methods, Pviz
+Depends: methods, Gviz
 Description: A dummy package for class A and the "[" operator
 License: GPL-3

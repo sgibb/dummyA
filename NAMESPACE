@@ -1,5 +1,5 @@
 import(methods)
-import(Pviz)
+import(Gviz)
 
 exportClasses(A)
 
