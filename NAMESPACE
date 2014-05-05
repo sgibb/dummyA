@@ -1,0 +1,7 @@
+import(methods)
+import(Pviz)
+
+exportClasses(A)
+
+exportMethods("[")
+export(plotGviz, plotGvizA)
